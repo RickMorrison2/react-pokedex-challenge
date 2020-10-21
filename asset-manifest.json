@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ec25c18.chunk.css",
-    "main.js": "/static/js/main.20c6f684.chunk.js",
-    "main.js.map": "/static/js/main.20c6f684.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.df20a84d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.df20a84d.js.map",
-    "static/js/2.577e8c21.chunk.js": "/static/js/2.577e8c21.chunk.js",
-    "static/js/2.577e8c21.chunk.js.map": "/static/js/2.577e8c21.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b95d86b4546e84043577023324b6ccd2.js": "/precache-manifest.b95d86b4546e84043577023324b6ccd2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ec25c18.chunk.css.map": "/static/css/main.5ec25c18.chunk.css.map",
-    "static/js/2.577e8c21.chunk.js.LICENSE.txt": "/static/js/2.577e8c21.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-pokedex-challenge/static/css/main.5ec25c18.chunk.css",
+    "main.js": "/react-pokedex-challenge/static/js/main.f2d454d9.chunk.js",
+    "main.js.map": "/react-pokedex-challenge/static/js/main.f2d454d9.chunk.js.map",
+    "runtime-main.js": "/react-pokedex-challenge/static/js/runtime-main.58aae5c3.js",
+    "runtime-main.js.map": "/react-pokedex-challenge/static/js/runtime-main.58aae5c3.js.map",
+    "static/js/2.577e8c21.chunk.js": "/react-pokedex-challenge/static/js/2.577e8c21.chunk.js",
+    "static/js/2.577e8c21.chunk.js.map": "/react-pokedex-challenge/static/js/2.577e8c21.chunk.js.map",
+    "index.html": "/react-pokedex-challenge/index.html",
+    "precache-manifest.33092bc2996d6e178591bd30a5ee2413.js": "/react-pokedex-challenge/precache-manifest.33092bc2996d6e178591bd30a5ee2413.js",
+    "service-worker.js": "/react-pokedex-challenge/service-worker.js",
+    "static/css/main.5ec25c18.chunk.css.map": "/react-pokedex-challenge/static/css/main.5ec25c18.chunk.css.map",
+    "static/js/2.577e8c21.chunk.js.LICENSE.txt": "/react-pokedex-challenge/static/js/2.577e8c21.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-pokedex-challenge/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.df20a84d.js",
+    "static/js/runtime-main.58aae5c3.js",
     "static/js/2.577e8c21.chunk.js",
     "static/css/main.5ec25c18.chunk.css",
-    "static/js/main.20c6f684.chunk.js"
+    "static/js/main.f2d454d9.chunk.js"
   ]
 }
