@@ -1,0 +1,52 @@
+@import './scss/variables';
+
+@import '~react-md/dist/react-md';
+
+@include react-md-utils;
+
+.pokemon-box {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    max-width: 50%;
+    background-color: $maya-blue;
+    color: #ffffff;
+    font-weight: 500;
+    text-shadow: 1px 1px gray;
+}
+
+.flex-center-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-center-container-column {
+    @extend .flex-center-container;
+    flex-direction: column;
+}
+
+.filters {
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 25px;
+    background-color: $prussian-blue;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.searchBox {
+    background-color: #ffffff !important;
+}
+
+.optionContainer {
+    color: $prussian-blue !important;
+}
+
+.home-page {
+    color: #ffffff;
+    font-weight: bold;
+}

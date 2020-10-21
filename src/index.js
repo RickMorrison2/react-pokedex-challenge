@@ -1,13 +1,18 @@
+import './index.scss';
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Link, useLocation } from 'react-router-dom'
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { Configuration, Layout, useLayoutNavigation } from '@react-md/layout'
+import CustomLayout from './Layout';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <Configuration>
+      <CustomLayout />
+    </Configuration>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
